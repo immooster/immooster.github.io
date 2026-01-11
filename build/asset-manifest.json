@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4f9105f.css",
+    "main.js": "/static/js/main.834bd2a1.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/sunset-bg.jpg": "/static/media/sunset-bg.1a539fec2919906fb128.jpg",
+    "static/media/project-market-research.png": "/static/media/project-market-research.92303ea2a796e1f2ccdb.png",
+    "static/media/project-ecohaven.png": "/static/media/project-ecohaven.858bddd3b6afec4fb24a.png",
+    "static/media/project-cybersecurity-architechture.png": "/static/media/project-cybersecurity-architechture.f453ae09a82ce94a063d.png",
+    "static/media/forest-bg.jpg": "/static/media/forest-bg.c6c64220966451334429.jpg",
+    "static/media/project-storywriting.png": "/static/media/project-storywriting.b28d5da204dcdced55d6.png",
+    "static/media/StoryScript-Regular.ttf": "/static/media/StoryScript-Regular.065b23c7613e8073a6cb.ttf",
+    "index.html": "/index.html",
+    "main.d4f9105f.css.map": "/static/css/main.d4f9105f.css.map",
+    "main.834bd2a1.js.map": "/static/js/main.834bd2a1.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f9105f.css",
+    "static/js/main.834bd2a1.js"
+  ]
+}
