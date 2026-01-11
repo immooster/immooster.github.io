@@ -1,0 +1,57 @@
+.dark-mode .experience-container {
+    ul {
+        color: white;
+    }
+}
+
+body {
+    margin: 0;
+}
+
+.experience-container {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    ul {
+        color: black;
+    }
+
+    svg {
+        color: white;
+    }
+}
+  
+.experience-container .experience-grid {
+    display: grid;
+    gap: 50px;
+}
+  
+.experience-container .experience-grid .skill {
+    align-items: center;
+    text-align: left;
+}
+
+@media screen {
+    @media (max-width: 768px) {
+        .experience-container {
+            display: block;
+            padding-left: 5%;
+            padding-right: 5%;
+        }
+    
+        .experience-container .experience-grid {
+            display: initial;
+        }
+        
+        .experience-container .experience-grid .skill {
+            padding-bottom: 5%;
+        }
+    }
+
+    // @media (max-width: 567px) {
+    //     .experience {
+    //         font-size: 12px;
+    //     }
+    // }
+}
