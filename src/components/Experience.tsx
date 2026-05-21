@@ -39,7 +39,9 @@ function Experience() {
                             Specialisation in Cybersecurity
                         </li>
                         <li>
-                            Director's List Award: Y1S1, Y1S2, Y2S1
+                            <a href="https://drive.google.com/drive/folders/1FrISE5jWjd-eh5TYJR69eD95dVWvIKad?usp=share_link" target="_blank" rel="noreferrer">
+                                Director's List Award: Y1S1, Y1S2, Y2S1
+                            </a>
                         </li>
                     </ul>
                 </div>

@@ -14,7 +14,7 @@ function Main() {
           
           <h1>Hi, I'm Moira!</h1>
           <p>
-            IT student at Nanyang Polytechnic with 
+            Graduate IT student from Nanyang Polytechnic with 
             hands-on experience in Software Development and Cybersecurity.
           </p>
 

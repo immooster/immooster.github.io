@@ -12,18 +12,6 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.figma.com/design/TewqV7xRFJeVXfBGl8vju5/Storywriting-Tool-App?node-id=0-1&p=f" target="_blank" rel="noreferrer"><img src={project4} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.figma.com/design/TewqV7xRFJeVXfBGl8vju5/Storywriting-Tool-App?node-id=0-1&p=f" target="_blank" rel="noreferrer"><h2>Story-Writing Tool App</h2></a>
-                <div className="flex-chips">
-                    <Chip className='chip' label="Ongoing" />
-                </div>
-                <p>
-                    A mobile app I'm currently solo-developing to help writers organise and manage story ideas efficiently.
-                    Developed with Flutter and Dart.
-                </p>
-            </div>
-
-            <div className="project">
                 <a href="https://github.com/Ecohaven/ECO-OFFICAL-HAVEN" target="_blank" rel="noreferrer"><img src={project1} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/Ecohaven/ECO-OFFICAL-HAVEN" target="_blank" rel="noreferrer"><h2>Ecohaven - E-commerce Event Booking Platform</h2></a>
                 <div className="flex-chips">

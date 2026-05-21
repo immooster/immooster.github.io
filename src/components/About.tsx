@@ -8,13 +8,13 @@ function About() {
         <div className="skills-container">
             <h1>About Me</h1>
             <p>
-                Hi! I'm Moira, a 3rd-year Diploma in Information Technology student at Nanyang Polytechnic, specialising in Cybersecurity. 
+                Hi! I'm Moira, a recent Diploma in Information Technology graduate from Nanyang Polytechnic. 
                 I have hands-on experience developing full-stack applications and applying cybersecurity principles to real-world projects. 
                 I’m passionate about exploring emerging technologies and creating meaningful, secure solutions that make an impact. 
-                I aim to further develop my technical expertise in Computer Science and Cybersecurity at university.
+                I aim to further develop my technical expertise in Computer Science at university.
             </p>
-            <p>
-                Fun fact: I'm a digital artist and music creator during my free time.
+            <p style={{fontWeight: 'bold'}}>
+                Fun fact: I'm also a digital artist and music creator during my free time :)
             </p>
         </div>
     </div>
